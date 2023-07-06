@@ -6,7 +6,7 @@ This repository contains an in-depth analysis of an HR data set, focusing on str
 <hr>
 <br>
 
-![My Image](assets/LegaciesGroup1.png)
+![My Image](assets/LegaciesGroup2.png)
 
 <br>
 <br>
